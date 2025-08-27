@@ -26,8 +26,8 @@ Configure your commands folder to be `90 System/Prompts`
 Update the `90 System/Config/Learning Preferences` note with any information about your learning style and preferences. Mine includes information about my work history so if I do a programming or networking class it designs it as one who already knows the basics.
 
 ## Hotkey Definitions
-`ALT+0` = Insert Templater Template: Seed
-`ALT+9` = Copilot: Grade My Writing
+- `ALT+0` = Insert Templater Template: Seed
+- `ALT+9` = Copilot: Grade My Writing
 # Workflow
 All new notes, ideas, fleeting thoughts, web clippings, etc. go into `00 Inbox/`. This folder is your 'pre-processed' data. You see an article or hear someone say something, just throw the note there. You'll come back to it later after you've had a moment to dwell on the idea. 
 
