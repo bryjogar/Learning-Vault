@@ -4,7 +4,7 @@ tags:
 created: 2025-08-27
 ---
 # Seed: Can the growth of Israel be linked to the practice of Judaism
-[Status:: #ready]
+[Status:: #draft]
 
 ## Questions and ideas to explore
 - Can the growth of modern-day Israel be linked to the practice of Judaism?

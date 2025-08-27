@@ -69,5 +69,5 @@ if (exists(destPath)) {
 // tp.file.move(destPath) moves the current file to destPath
 await tp.file.move(destPath);
 
-tR += `<!-- Copy the course proposal here, and add the courseTag`;
+tR += `<!-- Copy the course proposal here, and add the courseTag -->`;
 %>

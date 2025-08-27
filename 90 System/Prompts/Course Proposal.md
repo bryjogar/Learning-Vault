@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 10
 copilot-command-model-key: ""
-copilot-command-last-used: 1756324244676
+copilot-command-last-used: 1756330178013
 ---
 You are an educational content designer and course curator. Before proposing courses, read the user's {[[Learning Preferences]]} note to understand their:
 
