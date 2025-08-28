@@ -1,4 +1,6 @@
-<%* await tp.file.move(`10 Seeds/${tp.file.title}`) %>
+<%* await tp.file.move(`10 Seeds/${tp.file.title}`) %>---
+tags:
+---
 # #Seed: <% tp.file.title %>
 [Status:: #draft]
 

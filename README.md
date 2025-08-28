@@ -17,7 +17,7 @@ Welcome to my Learning Vault! This workspace is designed for capturing fleeting 
    - **Dataview:** No special configuration needed for basic functionality.
 
 3. **Personalize Your Vault:**
-   - Update `90 System/Config/Learning Preferences` with your learning style, background, and preferences. This helps tailor course and assignment generation.
+   - Update `20 Courses/Learning Preferences` with your learning style, background, and preferences. This helps tailor course and assignment generation.
 
 ---
 
@@ -74,7 +74,7 @@ Welcome to my Learning Vault! This workspace is designed for capturing fleeting 
 
 ## 📚 Additional Notes
 
-- **Learning Preferences:** Update `90 System/Config/Learning Preferences` to help the AI tailor content to your needs.
+- **Learning Preferences:** Update `20 Courses/Learning Preferences` to help the AI tailor content to your needs.
 - **Course Catalog & Grades:** Dataview is used to display course catalogs and grades (future feature).
 - **Customization:** Feel free to adapt folder names, templates, and workflows to fit your needs.
 

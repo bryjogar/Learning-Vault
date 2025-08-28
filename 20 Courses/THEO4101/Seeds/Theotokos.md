@@ -1,3 +1,8 @@
+---
+tags:
+  - active_course
+  - THEO4101
+---
 # #THEO4101: Theotokos
 [Status:: #ready]
 ## Questions to explore

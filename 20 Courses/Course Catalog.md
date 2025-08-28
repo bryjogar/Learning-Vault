@@ -10,10 +10,8 @@ where status="enrolled"
 table title
 from #course-proposal
 where !contains(file.name, "Course Proposal")
+sort file.name
 ```
 
 
-
-
 ---
-tags: #exclude_from_qa

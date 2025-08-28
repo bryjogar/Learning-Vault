@@ -1,5 +1,10 @@
-# #THEO4101: Ephesus and Constantinople
-[Status:: #ready]
+---
+tags:
+  - active_course
+  - THEO4101
+---
+# Seed: Ephesus and Constantinople
+Status: #ready
 
 ## Questions and ideas to explore
 - How did the Councils of Ephesus and Constantinople shape understandings of Mary as Theotokos, and what controversies persisted afterward?
@@ -9,5 +14,3 @@
 
 ## Course design thoughts
 - May be connected to other council courses but also connects to Mariology, so be careful to build a course that isn't too wide reaching
----
-#active_course 
