@@ -1,6 +1,7 @@
 ---
 tags:
   - THEO4320
+  - active_course
 created: 2025-08-26
 ---
 

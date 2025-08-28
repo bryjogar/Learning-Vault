@@ -1,10 +1,11 @@
 ---
 tags:
   - syllabus
+  - active_course
 created: 2024-06-10
 status: draft
 course_code: THEO4320
-course_title: "Spiritual Practice and the Problem of Prelest in Eastern Christianity"
+course_title: Spiritual Practice and the Problem of Prelest in Eastern Christianity
 related_seeds:
   - What is prelest
   - Spiritual Practice

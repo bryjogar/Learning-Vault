@@ -1,6 +1,7 @@
 ---
 tags:
   - THEO4301
+  - active_course
 created: 2025-08-27
 status: ingested
 ---

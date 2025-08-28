@@ -13,3 +13,7 @@ where !contains(file.name, "Course Proposal")
 ```
 
 
+
+
+---
+tags: #exclude_from_qa

@@ -1,6 +1,7 @@
 ---
 tags:
   - syllabus
+  - active_course
 created: 2024-06-10
 status: approved
 course_code: REL4101

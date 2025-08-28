@@ -1,6 +1,7 @@
 ---
 tags:
   - syllabus
+  - active_course
 created: 2024-06-11
 status: approved
 course_code: THEO4201
